@@ -72,3 +72,4 @@ o = odd()
 print(next(o)) # step1 ; 1
 print(next(o)) # step2 ; 3
 print(next(o)) # step3 ; 5
+
