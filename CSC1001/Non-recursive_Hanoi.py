@@ -4,7 +4,7 @@ ranges = [['A','C','B'],['A','B','C']]
 moves = [None]*(2**n-1)
 t = list(range(1,2**n))
 
-while 1 in t:#good
+while 1 in t:
     p = 0
     for i in t:
         if i /(2**(n-key-1)) == i // (2**(n-key-1)):
